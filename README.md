@@ -171,7 +171,4 @@ Built using Microsoft Excel
 Connect on [LinkedIn](www.linkedin.com/in/simran-mishra-a21368276)
 
 ---
-
-## ⭐ Support
-
 If you found this project useful, consider giving it a ⭐ on GitHub!
