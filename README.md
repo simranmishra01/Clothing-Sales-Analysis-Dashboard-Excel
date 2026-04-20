@@ -16,9 +16,9 @@ Built using **Pivot Tables, Charts, and Slicers**, this project demonstrates how
 
 ## 📊 Dashboard Preview
 
-[Dashboard Preview](./Dashboard%20preview.png)
+[Dataset & Cleaning Preview](https://github.com/simranmishra01/Clothing-Sales-Analysis-Dashboard-Excel/blob/main/Data_cleaning_preview.png)
+[Dashboard Preview](https://github.com/simranmishra01/Clothing-Sales-Analysis-Dashboard-Excel/blob/main/Dashboard%20preview.png)
 
-[Dataset & Cleaning Preview](./Data_cleaning_preview.png)
 
 ---
 
@@ -161,17 +161,6 @@ Vishal-Clothing-Sales-Dashboard-Excel/
 ├── Vishal_Clothing_Dashboard.xlsx
 └── README.md
 ```
-
----
-
-## 🚧 Future Improvements
-
-* Automate data refresh using Power Query
-* Add yearly trend comparison
-* Integrate with live API data
-* Rebuild dashboard in Power BI for advanced analytics
-
----
 
 ## 🙋‍♀️ Author
 
