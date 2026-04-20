@@ -17,6 +17,7 @@ Built using **Pivot Tables, Charts, and Slicers**, this project demonstrates how
 ## 📊 Dashboard Preview
 
 [Dataset & Cleaning Preview](https://github.com/simranmishra01/Clothing-Sales-Analysis-Dashboard-Excel/blob/main/Data_cleaning_preview.png)
+
 [Dashboard Preview](https://github.com/simranmishra01/Clothing-Sales-Analysis-Dashboard-Excel/blob/main/Dashboard%20preview.png)
 
 
